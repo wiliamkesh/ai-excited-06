@@ -1,0 +1,1 @@
+{"description":"The Sun That Opens — make.fun ai-excited-01 round 11","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"ai-excited-06","scripts":{"generate":"python3 gen_image.py","start":"node main.ts"},"type":"module","version":"1.0.0"}
